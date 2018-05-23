@@ -1,0 +1,8 @@
+131202106    Furkan GÜMÜÞER
+141202014    Emre GÖKYAR
+
+Proje Adý: 3-DOF Robotic Arm Motion Simulation
+
+Farklý uzunluklara ve kitlelere sahip olabilen katý baðlantýlara sahip 3 gözlü robotik bir koldur. 
+Baþlangýçtaki koþullarý (açýsal konum) dikkate alýr. 
+Simülasyon süresini ve iki kare arasýndaki adým (zaman) deðiþtirilebilir.
