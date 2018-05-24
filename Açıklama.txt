@@ -1,0 +1,5 @@
+3 dof robotik kol programý açýlýr ve run'lanýr.
+Daha sonra açý degerleri derece cinsinden tek tek girilir.
+Her açý giriþinden sonra enter'a basýlýr.
+Üçüncü açý girildikten sonra çýkan simülasyon ekranýnda hareket gözlenir.
+
